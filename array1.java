@@ -10,7 +10,6 @@ public class array1 {
         // arr[3]=87;
         // arr[4]=89;
 
-
         // for(int x: arr){
         //    System.out.println(arr[0]);
         //     System.out.println(arr[1]);

@@ -27,10 +27,6 @@ abstract class GeometricFigure{
         System.out.println(r.getArea());
 
 
-
-
-
-
     
 }
    
